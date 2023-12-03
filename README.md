@@ -53,7 +53,7 @@ Clone the repository unto your local machine cd to the folder.
 ## Author
 
 👤 shailesh singh
-- Github: [@SamirPaul1](https://github.com/Shailesh744) 
+- Github: [@shailesh744](https://github.com/Shailesh744) 
 
 ## Show your support
 
